@@ -154,7 +154,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_custom-countdown">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                       <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_custom-countdown/">
@@ -873,4 +873,5 @@
         </a>
     </td>
 </tr>
+
 </table>
