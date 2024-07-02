@@ -46,7 +46,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_bookmark-keeper">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_bookmark-keeper/">
@@ -55,7 +55,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_bookmark-keeper">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_bookmark-keeper/">
@@ -100,7 +100,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_calculator">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_calculator/">
@@ -109,7 +109,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_calculator">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_calculator/">
@@ -154,7 +154,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_custom-countdown">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_custom-countdown/">
@@ -163,7 +163,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_custom-countdown">
-            <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
 <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_custom-countdown/">
@@ -208,16 +208,16 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_form-validation">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                     <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
-        <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
+         <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_form-validation/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_form-validation">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_form-validation/">
@@ -262,16 +262,16 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_infinite-scroll">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
-        <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
+        <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_infinite-scroll/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+             <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_infinite-scroll">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_infinite-scroll/">
@@ -316,7 +316,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_joke-teller">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_joke-teller/">
@@ -325,7 +325,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_joke-teller">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_joke-teller/">
@@ -370,7 +370,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_light-dark-mode">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_light-dark-mode/">
@@ -379,7 +379,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_light-dark-mode">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_light-dark-mode/">
@@ -424,7 +424,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_math-sprint-game">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_math-sprint-game/">
@@ -433,7 +433,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_math-sprint-game">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_math-sprint-game/">
@@ -478,7 +478,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_music-player">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_music-player/">
@@ -487,7 +487,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_music-player">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_music-player/">
@@ -532,7 +532,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_nasa-apod">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_nasa-apod/">
@@ -541,7 +541,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_nasa-apod">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_nasa-apod/">
@@ -586,7 +586,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_navigation-nation">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_navigation-nation/">
@@ -595,7 +595,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_navigation-nation">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_navigation-nation/">
@@ -640,7 +640,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_spock-rock-game">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_spock-rock-game/">
@@ -649,7 +649,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_spock-rock-game">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_spock-rock-game/">
@@ -694,7 +694,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_picture-in-picture">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_picture-in-picture/">
@@ -703,7 +703,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_picture-in-picture">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_picture-in-picture/">
@@ -748,7 +748,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_ping-pong">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_ping-pong/">
@@ -757,7 +757,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_ping-pong">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_ping-pong/">
@@ -802,7 +802,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_quote-generator">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_quote-generator/">
@@ -811,7 +811,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_quote-generator">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_quote-generator/">
@@ -856,7 +856,7 @@
 <tr>
     <td align="center">
         <a href="https://github.com/Shcoobz/basicJS_video-player">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_video-player/">
@@ -865,7 +865,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Shcoobz/advancedJS_video-player">
-            <img src="https://img.shields.io-badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
         <img src="https://img.shields.io-badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_video-player/">
