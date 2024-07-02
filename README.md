@@ -1,4 +1,4 @@
-## basicJS && advancedJS ++
+## basicJS && advancedJS
 
 <table>
 <tr>
