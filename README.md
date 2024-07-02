@@ -50,7 +50,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_bookmark-keeper/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -59,7 +59,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_bookmark-keeper/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -104,7 +104,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_calculator/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -113,7 +113,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_calculator/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -158,7 +158,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_custom-countdown/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -167,7 +167,7 @@
         </a>
 <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_custom-countdown/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -212,7 +212,7 @@
         </a>
       <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_form-validation/">
-            <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -221,7 +221,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_form-validation/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -266,7 +266,7 @@
         </a>
      <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_infinite-scroll/">
-             <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                        <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -275,7 +275,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_infinite-scroll/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -320,7 +320,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_joke-teller/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -329,7 +329,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_joke-teller/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -374,7 +374,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_light-dark-mode/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -383,7 +383,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_light-dark-mode/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -428,7 +428,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_math-sprint-game/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -437,7 +437,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_math-sprint-game/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -482,7 +482,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_music-player/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -491,7 +491,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_music-player/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -536,7 +536,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_nasa-apod/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -545,7 +545,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_nasa-apod/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -590,7 +590,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_navigation-nation/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -599,7 +599,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_navigation-nation/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -644,7 +644,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_spock-rock-game/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -653,7 +653,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_spock-rock-game/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -698,7 +698,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_picture-in-picture/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -707,7 +707,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_picture-in-picture/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -752,7 +752,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_ping-pong/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -761,7 +761,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_ping-pong/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -806,7 +806,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_quote-generator/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -815,7 +815,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_quote-generator/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
@@ -860,7 +860,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/basicJS_video-player/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
     <td align="center">
@@ -869,7 +869,7 @@
         </a>
     <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-808080?style=for-the-badge" style="width:70px; height:auto;" alt="Placeholder"/>
         <a href="https://shcoobz.github.io/advancedJS_video-player/">
-            <img src="https://img.shields.io-badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+                       <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
         </a>
     </td>
 </tr>
