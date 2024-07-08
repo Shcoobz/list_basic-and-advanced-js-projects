@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="center" style="width: 200px;"><strong>Basic Book(mark) Keeper</strong></td>
+    <td align="center" style="width: 460px;"><strong>Basic Book(mark) Keeper</strong></td>
     <td align="center">
       <img
         src="img/basicJS_bookmark-keeper.png"
