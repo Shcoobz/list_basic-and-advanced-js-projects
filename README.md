@@ -8,7 +8,7 @@
     </td>
     <td align="center">
       <img width="441" height="1px">
-      <img src="img/basicJS_bookmark-keeper.png" alt="Basic Book(mark) Keeper" width="350" />
+      <img src="img/basicJS_bookmark-keeper.png" alt="Basic Book(mark) Keeper" width="300" />
     </td>
   </tr>
   <tr>
