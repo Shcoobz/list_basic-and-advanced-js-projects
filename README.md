@@ -27,6 +27,11 @@
 </tr>
 <tr>
     <td align="center">
+    <p> 
+            <small>
+                BasicJS
+            </small>
+        </p>
         <a href="https://github.com/Shcoobz/basicJS_bookmark-keeper">
                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
@@ -35,6 +40,11 @@
         </a>
     </td>
     <td align="center">
+    <p>
+            <small>
+                AdvancedJS
+            </small>
+        </p>
         <a href="https://github.com/Shcoobz/advancedJS_bookmark-keeper">
                      <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
         </a>
