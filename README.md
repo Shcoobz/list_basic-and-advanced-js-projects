@@ -2,6 +2,39 @@
 
 <table>
   <tr>
+    <td align="center">
+      <img width="441" height="1px">
+      <p><strong>Basic Book(mark) Keeper</strong></p>
+    </td>
+    <td align="center">
+      <img width="441" height="1px">
+      <img src="img/basicJS_bookmark-keeper.png" alt="Basic Book(mark) Keeper" width="350" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><small>BasicJS</small></p>
+      <a href="https://github.com/Shcoobz/basicJS_bookmark-keeper">
+        <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width: 110px; height: auto" alt="Repo" />
+      </a>
+      <a href="https://shcoobz.github.io/basicJS_bookmark-keeper/">
+        <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width: 120px; height: auto" alt="Demo" />
+      </a>
+    </td>
+    <td align="center">
+      <p><small>AdvancedJS</small></p>
+      <a href="https://github.com/Shcoobz/advancedJS_bookmark-keeper">
+        <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width: 110px; height: auto" alt="Repo" />
+      </a>
+      <a href="https://shcoobz.github.io/advancedJS_bookmark-keeper/">
+        <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width: 120px; height: auto" alt="Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" style="width: 460px;"><strong>Basic Book(mark) Keeper</strong></td>
     <td align="center">
       <img
